@@ -1,5 +1,5 @@
 # Zeus
-Zeus will be the main VM that will act as a server.
+Zeus será la VM principal que actuará como servidor.
 
-# PC1 & PC2
-This two VM's will act as clients for the server.
+# PC1 y PC2
+Estas dos VM actuarán como clientes para el servidor.

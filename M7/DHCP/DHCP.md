@@ -1,1 +1,1 @@
-Service that automatically gives IP's to PC's on the network. Here are all of the DHCP [[DHCP Commands]].
+Servicio que asigna automáticamente direcciones IP a los PC en la red. Aquí están todos los [[Comandos DHCP]].

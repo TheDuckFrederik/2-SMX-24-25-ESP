@@ -1,2 +1,2 @@
 # Ubuntu Base
-Every Ubuntu Server VM used is a clone form this machine.
+Cada máquina virtual de Ubuntu Server utilizada es un clon de esta máquina.
