@@ -1,2 +1,2 @@
 # Hades
-Hades will be the main VM that will act as a server.
+Hades will be the main VM that will act as the DNS server.
